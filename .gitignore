@@ -1,0 +1,6 @@
+.vscodeignore
+.vscode/*
+*.code-workspace
+temp/*
+*.vsix
+vsc-extension-quickstart.md

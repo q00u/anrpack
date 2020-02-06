@@ -1,0 +1,27 @@
+{
+    "name": "anrpack",
+    "displayName": "AnRPack",
+    "description": "The extensions I use when programming R stuff",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "icon": "Rlogo_128.png",
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "R"
+    ],
+    "repository": {
+        "url": "https://github.com/q00u/anrpack"
+    },
+    "homepage": "https://github.com/q00u/anrpack",
+    "bugs": {
+        "url": "https://github.com/q00u/anrpack/issues"
+    },
+    "extensionPack": [ 
+        "Ikuyadeu.r",
+        "REditorSupport.r-lsp"
+    ]
+}
