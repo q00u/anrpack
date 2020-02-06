@@ -2,6 +2,7 @@
     "name": "anrpack",
     "displayName": "AnRPack",
     "description": "The extensions I use when programming R stuff",
+    "publisher": "q00u",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.41.0"
